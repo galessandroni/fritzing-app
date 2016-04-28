@@ -13,87 +13,87 @@
     </message>
     <message>
         <source>Fritzing is made by: </source>
-        <translation type="unfinished"></translation>
+        <translation>Fritzing è stato scritto da: </translation>
     </message>
     <message>
         <source>Prof. Reto Wettach, Andr&amp;eacute; Kn&amp;ouml;rig, Myriel Milicevic, </source>
-        <translation type="unfinished"></translation>
+        <translation>Prof. Reto Wettach, Andr&amp;eacute; Kn&amp;ouml;rig, Myriel Milicevic, </translation>
     </message>
     <message>
         <source>Zach Eveland, Dirk van Oosterbosch, </source>
-        <translation type="unfinished"></translation>
+        <translation>Zach Eveland, Dirk van Oosterbosch, </translation>
     </message>
     <message>
         <source>Jonathan Cohen, Marcus Paeschke, Omer Yosha, </source>
-        <translation type="unfinished"></translation>
+        <translation>Jonathan Cohen, Marcus Paeschke, Omer Yosha, </translation>
     </message>
     <message>
         <source>Travis Robertson, Stefan Hermann, Brendan Howell, </source>
-        <translation type="unfinished"></translation>
+        <translation>Travis Robertson, Stefan Hermann, Brendan Howell, </translation>
     </message>
     <message>
         <source>Mariano Crowe, Johannes Landstorfer, </source>
-        <translation type="unfinished"></translation>
+        <translation>Mariano Crowe, Johannes Landstorfer, </translation>
     </message>
     <message>
         <source>Bryant Mairs, Uleshka Asher, and Daniel Tzschentke. </source>
-        <translation type="unfinished"></translation>
+        <translation>Bryant Mairs, Uleshka Asher, and Daniel Tzschentke. </translation>
     </message>
     <message>
         <source>Special thanks goes out to: </source>
-        <translation type="unfinished"></translation>
+        <translation>Un ringraziamento speciale va a: </translation>
     </message>
     <message>
         <source>Jussi &amp;Auml;ngeslev&amp;auml;, Massimo Banzi, Ayah Bdeir, </source>
-        <translation type="unfinished"></translation>
+        <translation>Jussi &amp;Auml;ngeslev&amp;auml;, Massimo Banzi, Ayah Bdeir, </translation>
     </message>
     <message>
         <source>Durrell Bishop, David Cuartielles, Fabian Hemmert, </source>
-        <translation type="unfinished"></translation>
+        <translation>Durrell Bishop, David Cuartielles, Fabian Hemmert, </translation>
     </message>
     <message>
         <source>Gero Herkenrath, Jeff Hoefs, Tom Hulbert, </source>
-        <translation type="unfinished"></translation>
+        <translation>Gero Herkenrath, Jeff Hoefs, Tom Hulbert, </translation>
     </message>
     <message>
         <source>Tom Igoe, Hans-Peter Kadel, Till Savelkoul, </source>
-        <translation type="unfinished"></translation>
+        <translation>Tom Igoe, Hans-Peter Kadel, Till Savelkoul, </translation>
     </message>
     <message>
         <source>Jan Sieber, Yaniv Steiner, Olaf Val, </source>
-        <translation type="unfinished"></translation>
+        <translation>Jan Sieber, Yaniv Steiner, Olaf Val, </translation>
     </message>
     <message>
         <source>Michaela Vieser and Julia Werner.</source>
-        <translation type="unfinished"></translation>
+        <translation>Michaela Vieser and Julia Werner.</translation>
     </message>
     <message>
         <source>Thanks to Kurt Badelt and Miguel Solis for the Spanish translation, </source>
-        <translation type="unfinished"></translation>
+        <translation>Grazie a Kurt Badelt e Miguel Solis per la traduzione in spagnolo, </translation>
     </message>
     <message>
         <source>to Gianluca Urgese for the Italian translation, </source>
-        <translation type="unfinished"></translation>
+        <translation>a Gianluca Urgese per la traduzione in italiano, </translation>
     </message>
     <message>
         <source>to Nuno Pessanha Santos for the Portuguese (European) translation, </source>
-        <translation type="unfinished"></translation>
+        <translation>a Nuno Pessanha Santos per la traduzione in portoghese (Europeo), </translation>
     </message>
     <message>
         <source>to Yuelin and Ninjia  for the Chinese (Simplified) translation, </source>
-        <translation type="unfinished"></translation>
+        <translation>a Yuelin e Ninjia per la traduzione in cinese (semplificato), </translation>
     </message>
     <message>
         <source>to Hiroshi Suzuki for the Japanese translation, </source>
-        <translation type="unfinished"></translation>
+        <translation>a Hiroshi Suzuki per la traduzione in giapponese, </translation>
     </message>
     <message>
         <source>to Robert Lee for the Chinese (Traditional) translation, </source>
-        <translation type="unfinished"></translation>
+        <translation>a Robert Lee per la traduzione in cinese (tradizionale), </translation>
     </message>
     <message>
         <source>to Vladimir Savinov for the Russian translation, </source>
-        <translation type="unfinished"></translation>
+        <translation>a Vladimir Savinov per la traduzione in russo, </translation>
     </message>
     <message>
         <source>Fritzing is made possible with funding from the </source>
@@ -169,15 +169,15 @@
     </message>
     <message>
         <source>Version %1.%2.%3 &lt;small&gt;(%4%5 %6) %7 [Qt %8]&lt;/small&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Versione %1.%2.%3 &lt;small&gt;(%4%5 %6) %7 [Qt %8]&lt;/small&gt;</translation>
     </message>
     <message>
         <source>Jenny Chowdhury, Lionel Michel, Fabian Althaus, Jannis Leidel, </source>
-        <translation type="unfinished"></translation>
+        <translation>Jenny Chowdhury, Lionel Michel, Fabian Althaus, Jannis Leidel, </translation>
     </message>
     <message>
         <source>&lt;b&gt;2007-%1 Fritzing&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;2007-%1 Fritzing&lt;/b&gt;</translation>
     </message>
 </context>
 <context>
@@ -226,7 +226,7 @@
     </message>
     <message>
         <source>Trace width</source>
-        <translation type="unfinished"></translation>
+        <translation>Spessore della traccia</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -234,7 +234,7 @@
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Keepout</source>
@@ -401,7 +401,7 @@
     </message>
     <message>
         <source>Import...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importazione...</translation>
     </message>
     <message>
         <source>Load a Fritzing part (.fzpz), or a Fritzing parts bin (.fzb, .fzbz)</source>
@@ -456,11 +456,11 @@
     <name>Board</name>
     <message>
         <source>one layer (single-sided)</source>
-        <translation type="unfinished"></translation>
+        <translation>una faccia (singolo strato)</translation>
     </message>
     <message>
         <source>two layers (double-sided)</source>
-        <translation type="unfinished"></translation>
+        <translation>due facce (doppio strato)</translation>
     </message>
     <message>
         <source>Have a look at the circle_pcb.svg file in your Fritzing installation folder at parts/svg/core/pcb/.
@@ -490,7 +490,7 @@
     </message>
     <message>
         <source>because the xml is not correctly formatted</source>
-        <translation type="unfinished"></translation>
+        <translation>poiché l'xml non è formattato correttamente</translation>
     </message>
     <message>
         <source>the &lt;board&gt; element contains no shape elements</source>
@@ -607,11 +607,11 @@ A custom board svg typically has one or two silkscreen layers and one board laye
     </message>
     <message>
         <source>Set text color</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta il colore del testo</translation>
     </message>
     <message>
         <source>Select text color</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta il colore del testo</translation>
     </message>
 </context>
 <context>
@@ -625,11 +625,11 @@ A custom board svg typically has one or two silkscreen layers and one board laye
     <name>ConnectorItem</name>
     <message>
         <source>Add bendpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi punto di rottura</translation>
     </message>
     <message>
         <source>Remove bendpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimuovi punto di rottura</translation>
     </message>
     <message>
         <source>Straighten curve</source>
@@ -640,7 +640,7 @@ A custom board svg typically has one or two silkscreen layers and one board laye
     <name>ConsoleSettings</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazioni</translation>
     </message>
     <message>
         <source>Select Parameters</source>
@@ -668,11 +668,11 @@ A custom board svg typically has one or two silkscreen layers and one board laye
     </message>
     <message>
         <source>Select Serial Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona porta seriale</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrizione:</translation>
     </message>
     <message>
         <source>Manufacturer:</source>
@@ -680,7 +680,7 @@ A custom board svg typically has one or two silkscreen layers and one board laye
     </message>
     <message>
         <source>Serial number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero di serie:</translation>
     </message>
     <message>
         <source>Location:</source>
@@ -700,7 +700,7 @@ A custom board svg typically has one or two silkscreen layers and one board laye
     </message>
     <message>
         <source>Additional options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opzioni aggiuntive</translation>
     </message>
     <message>
         <source>Local echo</source>
@@ -708,7 +708,7 @@ A custom board svg typically has one or two silkscreen layers and one board laye
     </message>
     <message>
         <source>Description: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrizione: %1</translation>
     </message>
     <message>
         <source>Manufacturer: %1</source>
@@ -716,7 +716,7 @@ A custom board svg typically has one or two silkscreen layers and one board laye
     </message>
     <message>
         <source>Serial number: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero di serie: %1</translation>
     </message>
     <message>
         <source>Location: %1</source>
@@ -751,11 +751,11 @@ A custom board svg typically has one or two silkscreen layers and one board laye
     </message>
     <message>
         <source>About program</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazioni sul programma</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>About Qt</source>
@@ -771,7 +771,7 @@ A custom board svg typically has one or two silkscreen layers and one board laye
     </message>
     <message>
         <source>Ctrl+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <source>&amp;Disconnect</source>
@@ -783,7 +783,7 @@ A custom board svg typically has one or two silkscreen layers and one board laye
     </message>
     <message>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <source>&amp;Configure</source>
@@ -795,11 +795,11 @@ A custom board svg typically has one or two silkscreen layers and one board laye
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>C&amp;lear</source>
-        <translation type="unfinished"></translation>
+        <translation>C&amp;ancella</translation>
     </message>
     <message>
         <source>Clear data</source>
@@ -807,23 +807,23 @@ A custom board svg typically has one or two silkscreen layers and one board laye
     </message>
     <message>
         <source>Alt+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+L</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished">&amp;Esci</translation>
+        <translation>&amp;Esci</translation>
     </message>
     <message>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <source>Connected to %1 : %2, %3, %4, %5, %6</source>
-        <translation type="unfinished"></translation>
+        <translation>Connesso a %1 : %2, %3, %4, %5, %6</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <source>Serial port open error</source>
@@ -831,11 +831,11 @@ A custom board svg typically has one or two silkscreen layers and one board laye
     </message>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Disconnesso</translation>
     </message>
     <message>
         <source>Critical Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore critico</translation>
     </message>
     <message>
         <source>About Serial Monitor</source>
@@ -878,7 +878,7 @@ A custom board svg typically has one or two silkscreen layers and one board laye
     </message>
     <message>
         <source>Fritzing</source>
-        <translation type="unfinished"></translation>
+        <translation>Fritzing</translation>
     </message>
     <message>
         <source>%1 is overlapping (%2 layer)</source>
@@ -961,7 +961,7 @@ A custom board svg typically has one or two silkscreen layers and one board laye
     </message>
     <message>
         <source>Fritzing (*%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fritzing (*%1)</translation>
     </message>
     <message>
         <source>Fritzing caught an exception from %1 in event %2: %3</source>
@@ -1094,11 +1094,11 @@ It is also possible to choose a connector as a ground fill seed by right-clickin
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annulla</translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>OK and ground fill</source>
@@ -1185,7 +1185,7 @@ It is also possible to choose a connector as a ground fill seed by right-clickin
     </message>
     <message>
         <source>Locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloccato</translation>
     </message>
     <message>
         <source>Ratsnest wire</source>
@@ -1205,11 +1205,11 @@ It is also possible to choose a connector as a ground fill seed by right-clickin
     </message>
     <message>
         <source>v. %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>v. %1 %2</translation>
     </message>
     <message>
         <source>obsolete</source>
-        <translation type="unfinished"></translation>
+        <translation>obsoleto</translation>
     </message>
     <message>
         <source>Placement</source>
@@ -1225,11 +1225,11 @@ It is also possible to choose a connector as a ground fill seed by right-clickin
     </message>
     <message>
         <source>rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>rotazione</translation>
     </message>
     <message>
         <source>degrees</source>
-        <translation type="unfinished"></translation>
+        <translation>gradi</translation>
     </message>
 </context>
 <context>
@@ -1300,15 +1300,15 @@ It is also possible to choose a connector as a ground fill seed by right-clickin
     </message>
     <message>
         <source>capacitance</source>
-        <translation type="unfinished"></translation>
+        <translation>capacità</translation>
     </message>
     <message>
         <source>inductance</source>
-        <translation type="unfinished"></translation>
+        <translation>induttanza</translation>
     </message>
     <message>
         <source>current</source>
-        <translation type="unfinished"></translation>
+        <translation>corrente</translation>
     </message>
     <message>
         <source>power</source>
@@ -1328,7 +1328,7 @@ It is also possible to choose a connector as a ground fill seed by right-clickin
     </message>
     <message>
         <source>pins</source>
-        <translation type="unfinished"></translation>
+        <translation>pin</translation>
     </message>
     <message>
         <source>spacing</source>
@@ -1336,15 +1336,15 @@ It is also possible to choose a connector as a ground fill seed by right-clickin
     </message>
     <message>
         <source>frequency</source>
-        <translation type="unfinished"></translation>
+        <translation>frequenza</translation>
     </message>
     <message>
         <source>processor</source>
-        <translation type="unfinished"></translation>
+        <translation>processore</translation>
     </message>
     <message>
         <source>variant</source>
-        <translation type="unfinished"></translation>
+        <translation>variante</translation>
     </message>
     <message>
         <source>layers</source>
@@ -1352,7 +1352,7 @@ It is also possible to choose a connector as a ground fill seed by right-clickin
     </message>
     <message>
         <source>tolerance</source>
-        <translation type="unfinished"></translation>
+        <translation>tolleranza</translation>
     </message>
     <message>
         <source>descr</source>
@@ -1364,11 +1364,11 @@ It is also possible to choose a connector as a ground fill seed by right-clickin
     </message>
     <message>
         <source>title</source>
-        <translation type="unfinished"></translation>
+        <translation>titolo</translation>
     </message>
     <message>
         <source>date</source>
-        <translation type="unfinished"></translation>
+        <translation>data</translation>
     </message>
     <message>
         <source>rev</source>
